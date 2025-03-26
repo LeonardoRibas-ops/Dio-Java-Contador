@@ -1,0 +1,25 @@
+# Diretórios padrão de build em Java
+/bin/
+/build/
+/out/
+
+# Arquivos de dependências gerenciados pelo Maven
+/.mvn/
+/target/
+/.idea/
+/*.iml
+
+# Arquivos gerados pela IDE (IntelliJ, Eclipse, etc)
+*.class
+*.log
+*.idea/
+*.classpath
+*.project
+
+# Arquivos temporários
+*.swp
+*.swo
+
+# Arquivos de sistema
+.DS_Store       # Sistema macOS
+Thumbs.db       # Sistema Windows
